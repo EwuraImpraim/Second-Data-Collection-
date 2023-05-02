@@ -1,0 +1,11 @@
+,answer to Q1,answer to Q2,answer to Q3,answer to Q4,answer to Q5,respondent's age,respondent's gender,respondent's occupation
+Person_1,1,1,10,1,Y,50,Female,Retired
+Person_2,4,3,10,3,N,32,Male,Business Man
+Person_3,1,3,9,2,N,21,,Graduate Student 
+Person_4,1,1,10,1,N,17,Female,Student
+Person_5,1,1,10,3,Y,26,Female,Data Analyst
+Person_6,1,1,10,1,N,19,,Student
+Person_7,1,1,10,1,N,25,Male,Student 
+Person_8,1,2,10,2,N,18,Male,Student
+Person_9,1,2,10,2,N,21,Female,Data Analyst
+Person_10,1,3,9,1,N,22,Male,Program Manager
